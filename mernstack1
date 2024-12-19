@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Document</title>
+</head>
+<body>
+    <h1>Subha</h1>
+    <hr>
+    <img src="https://i0.wp.com/ryokougirl.com/wp-content/uploads/2023/07/5-Cosmos-Flower-Festival.png?resize=960%2C544&ssl=1" width="500" height="300">
+    <br>
+    <a href="https://i0.wp.com/ryokougirl.com/wp-content/uploads/2023/07/5-Cosmos-Flower-Festival.png?resize=960%2C544&ssl=1">flower</a>
+    <h1>Flower</h1>
+    <h2>Flower</h2>
+    <h3>Flower</h3>
+    <h4>Flower</h4>
+    <h5>Flower</h5>
+<ol>
+    <li>Flower</li>
+    <li>Flower</li>
+    <li>Flower</li>
+    <li>Flower</li>
+    <li>Flower</li>
+</ol>
+<ul>
+    <li>Flower</li>
+    <li>Flower</li>
+    <li>Flower</li>
+    <li>Flower</li>
+    <li>Flower</li>
+</ul>
+<p>Flowers are nature’s colorful masterpieces, painting landscapes with vibrant hues and delicate fragrances. 
+    Each bloom tells a unique story, from the shy violet peeking out in the early spring to the majestic sunflower standing tall under the summer sun.
+     Roses, with their velvety petals and intoxicating scent, have become symbols of love and romance, while the simple daisy represents innocence and purity. 
+     Orchids, with their intricate patterns and exotic allure, captivate with their elegance and mystery. Beyond their beauty, flowers play a crucial role in ecosystems, supporting pollinators and contributing to the life cycle of countless plants. 
+     Whether adorning our gardens, brightening our homes, or marking life’s special moments, flowers remind us of the ever-changing, yet timeless, beauty of the natural world.</p>
+<pre>
+    Flowers are nature’s colorful masterpieces, painting landscapes with vibrant hues and delicate fragrances.
+     Each bloom tells a unique story, from the shy violet peeking out in the early spring to the majestic sunflower standing tall under the summer sun. 
+     Roses, with their velvety petals and intoxicating scent, have become symbols of love and romance, while the simple daisy represents innocence and purity. 
+     Orchids, with their intricate patterns and exotic allure, captivate with their elegance and mystery. Beyond their beauty, flowers play a crucial role in ecosystems, supporting pollinators and contributing to the life cycle of countless plants. 
+     Whether adorning our gardens, brightening our homes, or marking life’s special moments, flowers remind us of the ever-changing, yet timeless, beauty of the natural world.
+</pre>
+ <table>
+<table border = 2>
+   
+        <tr>
+            <th>Roll No</th>
+            <th>Name</th>
+            <th>Department</th>
+            <th>mark</th>
+            <th>Percentage</th>
+        </tr>
+        <tr>
+            <td>244</td>
+            <td>Subha S</td>
+            <td>ECE</td>
+            <td>90</td>
+            <td>90</td>
+        </tr>
+        <tr>
+            <td>243</td>
+            <td>Subaharini</td>
+            <td>ECE</td>
+            <td>85</td>
+            <td>85</td>
+        </tr>
+        
+</table border>
+</table>
+<center>
+<form>
+    <h1>Login</h1>
+    <label>Email:</label>
+     <input type="email" placeholder="Enter the email">
+     <br><br>
+     <labe>Password:</labe>
+     <input type="password" placeholder="Enter the password">
+<br><br>
+<button> Submit </button>
+
+</form>
+</center>
+</body>
+</html>
