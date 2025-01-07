@@ -67,18 +67,7 @@
         
 </table border>
 </table>
-<center>
-<form>
-    <h1>Login</h1>
-    <label>Email:</label>
-     <input type="email" placeholder="Enter the email">
-     <br><br>
-     <labe>Password:</labe>
-     <input type="password" placeholder="Enter the password">
-<br><br>
-<button> Submit </button>
 
-</form>
 </center>
 </body>
 </html>
